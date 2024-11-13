@@ -9,10 +9,10 @@ This project leverages a Convolutional Neural Network (CNN) to classify plant di
 ### Mac/Linux
 To create and activate a virtual environment, use the following commands:
 
-\`\`\`bash
+```bash
 python3 -m venv venv
 source venv/bin/activate
-\`\`\`
+```
 
 ### Windows
 To create and activate a virtual environment, use:
