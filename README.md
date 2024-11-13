@@ -17,18 +17,18 @@ source venv/bin/activate
 ### Windows
 To create and activate a virtual environment, use:
 
-\`\`\`cmd
+```cmd
 python -m venv venv
 .\\venv\\Scripts\\activate
-\`\`\`
+```
 
 ## 2. Install Dependencies
 
 After activating the virtual environment, install the necessary dependencies:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## 3. Running the Application
 
